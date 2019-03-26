@@ -1,0 +1,14 @@
+C:\Users\Vitaliy\Desktop\Новая папка (3)\CpSysLabs-master\CpSysLab1\bin\Debug\CpSysLab1.exe.config
+C:\Users\Vitaliy\Desktop\Новая папка (3)\CpSysLabs-master\CpSysLab1\bin\Debug\CpSysLab1.exe
+C:\Users\Vitaliy\Desktop\Новая папка (3)\CpSysLabs-master\CpSysLab1\bin\Debug\CpSysLab1.pdb
+C:\Users\Vitaliy\Desktop\Новая папка (3)\CpSysLabs-master\CpSysLab1\obj\Debug\CpSysLab1.csprojAssemblyReference.cache
+C:\Users\Vitaliy\Desktop\Новая папка (3)\CpSysLabs-master\CpSysLab1\obj\Debug\CpSysLab1.csproj.CoreCompileInputs.cache
+C:\Users\Vitaliy\Desktop\Новая папка (3)\CpSysLabs-master\CpSysLab1\obj\Debug\CpSysLab1.exe
+C:\Users\Vitaliy\Desktop\Новая папка (3)\CpSysLabs-master\CpSysLab1\obj\Debug\CpSysLab1.pdb
+C:\Users\Alla\Desktop\cs\1\CpSysLab1\bin\Debug\CpSysLab1.exe.config
+C:\Users\Alla\Desktop\cs\1\CpSysLab1\bin\Debug\CpSysLab1.exe
+C:\Users\Alla\Desktop\cs\1\CpSysLab1\bin\Debug\CpSysLab1.pdb
+C:\Users\Alla\Desktop\cs\1\CpSysLab1\obj\Debug\CpSysLab1.csprojAssemblyReference.cache
+C:\Users\Alla\Desktop\cs\1\CpSysLab1\obj\Debug\CpSysLab1.csproj.CoreCompileInputs.cache
+C:\Users\Alla\Desktop\cs\1\CpSysLab1\obj\Debug\CpSysLab1.exe
+C:\Users\Alla\Desktop\cs\1\CpSysLab1\obj\Debug\CpSysLab1.pdb
